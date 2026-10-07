@@ -1,0 +1,6 @@
+{
+  "name": "AlphaLink",
+  "description": "A fast, secure, self-hosted communication platform supporting private conversations, groups, channels, voice and video communication, large file sharing and multi-device synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
